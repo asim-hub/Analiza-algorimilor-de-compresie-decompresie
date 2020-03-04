@@ -1,0 +1,9 @@
+In acest test voi urmari sa am un alfabet mic cu elemente ale caror frecvente sunt egale.
+a w q w s d c x z c d e s w a q z x c d e q a s w d x z c s d e w q a sz x cd e w s a q w s z x c
+q w e d s a z x c d s a q w e s a d z xc z x c d s a q w e d c x z a s w q a z x c d e nw s q a z
+x c d e w s q a z x c d e w s q a z x c d e w s q a z x c d e w s q a z x c d e w s q a z x c d e w s
+q a z x c d e w s q a z x c d e w s q a z x c d e w s q a z x c d e w s q a z x c d e w s q a
+z x c d e w s q a z x c d e w s q a z x c d e w s q a z x c d e w s q a z x c d e w s q a z x c d e
+w s q a z x c d e w s q a z x c d e w s q a z x c d e w s q w e d c x z a s q w e d c x z a s q w e
+d c x z a s q w e d c x z a s q w e d c x z a s q w e d c x z a s q w e d c x z a s q w e d c
+x z a s q w e d c x z a s q w e d c x z a s q w e d c x z a s q w e d c x z a s q w e d c x z a s

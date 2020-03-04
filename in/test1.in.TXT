@@ -1,0 +1,7 @@
+In acest test voi urmari sa am un alfabet cat mai mic , iar frecventa unor elementelor sa fie cat mai mare.
+aaaaaaaa bbbbbbb ccccccc dddddd yyyyyyy wwwwwww oooooo ccccc eeeeeee rrrrrrrr qqqqqqq eeeeee
+aaaaaaaaa bbbbbbbbbbbbbbbbbbb ccccccccccccccccccccccc ddddddddddddddddddddd yyyyyyyyyyyyyyyyyyyyyyyyyy
+nnnnnnnnnnnnnnn aaaaaaaaaaaa aaaaaaaaaa aaaaaaaaaa aaaaaaaaaaa aaaaaaaaaaa cccccccccc cccccccc
+wwwwwwwwww ooooooooo ooooooo rrrrrrrrrrrrrrrr qqqqqqqqqqqqqqqqqqqq eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+bbbbbbbbbbbbbbbbbbbbbbb cccccccccccccccccccccccc wwwwwwwwwwwwwwwwwwwwwwwwwww cccccccccccccccccccc
+ddddddddddddddddddddddddddddddddd yyyyyyyyyyyyy y yyyyyyyyyyyyyyyyyy yyyyyyyyy 

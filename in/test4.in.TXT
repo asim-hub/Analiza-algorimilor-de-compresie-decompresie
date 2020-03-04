@@ -1,0 +1,23 @@
+In acest test voi urmari sa am un text ordonat in pagina pentru a verifica daca la decodare ramane aranjarea.
+Alinierea textului intr-un document se realizeaza la nivel de paragraf.
+Atunci cand specificam un mod de aliniere a textului intr-un paragraf,
+toate paragrafele care urmeaza, pana la o noua specificare de format,
+vor pastra caracteristicile precizate. Specificarea modului de aliniere
+a textului intr-un paragraf se poate realiza in mai multe feluri: fie se
+da un click pe butonul corespunzator din bara de unelte Standard, fie se
+precizeaza modul de aliniere in caseta de dialog obtinuta prin selectarea
+optiunii Paragraph din submeniul Format.
+Modurile posibile de aliniere al liniilor intr-un paragraf sunt urmatoarele: 
+-	LA STANGA (LEFT) - Fiecare linie incepe in acelasi punct in partea
+stanga si se termina in diferite puncte in partea dreapta, in functie de numarul
+de caractere continute de linia respectiva.
+-	CENTRAT (CENTER) – Fiecare linie a paragrafului este pozitionata central
+fata de limitele paginii.
+-	LA DREAPTA (RIGHT) - Toate liniile  apar perfect aliniate in  partea dreapta a paginii.
+-	INTRE MARGINI (JUSTIFY) – Fiecare linie de text incepe la marginea din stanga a
+paginii si se termina la marginea din dreapta a paginii. Daca lungimea unei linii este mai mica,
+Word-ul introduce automat un numar oarecare de spatii intre cuvinte pentru a se respecta alinierea.
+Cele patru butoane de aliniere, de pe bara cu instrumente de lucru pentru aranjarea textului,
+ne permit sa schimbam alinierea textului cu un singur click de mouse. Deoarece aceste modificari
+se aplica intregului paragraf, trebuie doar sa executam un clic undeva in paragraful respectiv,
+apoi sa executam un click pe unul dintre aceste butoane.

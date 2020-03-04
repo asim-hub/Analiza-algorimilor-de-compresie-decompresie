@@ -1,0 +1,27 @@
+In file included from arithmetic_decode.c:2:0,
+                 from algo2decode.c:4:
+bit_input.c:7:1: warning: return type defaults to ‘int’ [-Wimplicit-int]
+ start_inputing_bits(){
+ ^~~~~~~~~~~~~~~~~~~
+In file included from arithmetic_decode.c:3:0,
+                 from algo2decode.c:4:
+bit_output.c:4:1: warning: return type defaults to ‘int’ [-Wimplicit-int]
+ start_outputing_bits(){
+ ^~~~~~~~~~~~~~~~~~~~
+bit_output.c:8:1: warning: return type defaults to ‘int’ [-Wimplicit-int]
+ output_bit(bit)
+ ^~~~~~~~~~
+bit_output.c:20:1: warning: return type defaults to ‘int’ [-Wimplicit-int]
+ done_outputing_bits()
+ ^~~~~~~~~~~~~~~~~~~
+In file included from algo2decode.c:4:0:
+arithmetic_decode.c:6:1: warning: return type defaults to ‘int’ [-Wimplicit-int]
+ start_decoding(){
+ ^~~~~~~~~~~~~~
+In file included from algo2decode.c:5:0:
+adaptive_model.c:3:1: warning: return type defaults to ‘int’ [-Wimplicit-int]
+ start_model()
+ ^~~~~~~~~~~
+adaptive_model.c:16:1: warning: return type defaults to ‘int’ [-Wimplicit-int]
+ update_model(symbol)
+ ^~~~~~~~~~~~
